@@ -12,12 +12,12 @@ light: #F1F1F1
 dark: #07324D
 
 -- ftd.color overlay-:
-light: #000000
-dark: #000000
+light: #0000000d
+dark: #00000017
 
 -- ftd.color code-:
-light: #eaeaea
-dark: #eaeaea
+light: #0000000d
+dark: #00000017
 
 -- ftd.background-colors background-:
 base: $base-
@@ -277,8 +277,8 @@ light: #dcefe4
 dark: #dcefe4
 
 -- ftd.color success-text-:
-light: #3e8d61
-dark: #3e8d61
+light: #3e8d6133
+dark: #3e8d6133
 
 -- ftd.color success-border-:
 light: #95d0af
