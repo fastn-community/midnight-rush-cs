@@ -4,7 +4,7 @@ light: #ffffff
 dark: #04293f
 
 -- ftd.color step-1-:
-light: #094367
+light: #ffffff
 dark: #073652
 
 -- ftd.color step-2-:
@@ -28,7 +28,7 @@ code: $code-
 
 -- ftd.color border-:
 light: #eeeeee
-dark: #04293f
+dark: #c2c3c5
 
 -- ftd.color border-strong-:
 light: #0096eb
