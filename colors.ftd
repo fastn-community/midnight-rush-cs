@@ -356,12 +356,12 @@ light: #ebbe52
 dark: #ebbe52
 
 -- ftd.color custom-nine-:
-light: #fcf5f5
-dark: #fcf5f5
+light: #1208084d
+dark: #1208084d
 
 -- ftd.color custom-ten-:
-light: #fbf5e2
-dark: #fbf5e2
+light: #12080880
+dark: #12080880
 
 -- ftd.custom-colors custom-:
 one: $custom-one-
