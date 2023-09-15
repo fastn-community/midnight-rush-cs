@@ -4,8 +4,8 @@ light: #ffffff
 dark: #04293f
 
 -- ftd.color step-1-:
-light: #ffffff
-dark: #073652
+light: #f9f9f9
+dark: #17445f
 
 -- ftd.color step-2-:
 light: #f1f1f1
@@ -393,4 +393,3 @@ success: $success-btb-
 info: $info-btb-
 warning: $warning-btb-
 custom: $custom-
-    
